@@ -31,7 +31,7 @@ namespace project_3
             {
                 loadStuffstaff();
             }
-            
+
         }
         public Faculty_Staff_Details()
         {
@@ -55,6 +55,17 @@ namespace project_3
             Pic_box.ImageLocation = p.faculty[id].imagePath;
             InterestArea_lbl.Text = p.faculty[id].interestArea;
 
+            if (p.faculty[id].facebook == "" || p.faculty[id].facebook == null)
+            {
+                picture_facebook.Visible = false;
+            }
+
+            if (p.faculty[id].twitter == "" || p.faculty[id].twitter == null)
+            {
+                picture_twitte.Visible = false;
+            }
+
+
         }
         private void loadStuffstaff()
         {
@@ -67,6 +78,14 @@ namespace project_3
             lbl_website.Text = p.staff[id].website;
             Pic_box.ImageLocation = p.staff[id].imagePath;
             InterestArea_lbl.Text = p.staff[id].interestArea;
+            if (p.staff[id].facebook == "" || p.staff[id].facebook == null)
+            {
+                picture_facebook.Visible = false;
+            }
+            if (p.staff[id].twitter == "" || p.staff[id].twitter == null)
+            {
+                picture_twitte.Visible = false;
+            }
 
         }
 

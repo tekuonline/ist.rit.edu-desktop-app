@@ -1,3 +1,12 @@
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\IST at RIT.exe.config
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\IST at RIT.exe.manifest
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\IST at RIT.application
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\IST at RIT.exe
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\IST at RIT.pdb
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\RestUtil.dll
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\Newtonsoft.Json.pdb
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\Newtonsoft.Json.xml
 \\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\project_3.AboutBox.resources
 \\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\project_3.form_browser.resources
 \\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\project_3.Faculty_Staff_Details.resources
@@ -8,14 +17,8 @@
 \\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\project_3.ResourceDetails.resources
 \\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\project_3.UnderGradDetails.resources
 \\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\project_3.csproj.GenerateResource.Cache
-\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\IST at RIT.exe.config
-\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\IST at RIT.exe
-\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\IST at RIT.pdb
-\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\Newtonsoft.Json.dll
-\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\RestUtil.dll
-\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\Newtonsoft.Json.pdb
-\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\IST at RIT.TrustInfo.xml
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\IST at RIT.exe.manifest
+\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\IST at RIT.application
 \\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\IST at RIT.exe
 \\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\IST at RIT.pdb
-\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\project_3.csprojResolveAssemblyReference.cache
-\\vmware-host\Shared Folders\Desktop\CloudStation\RIT\SPRING 2016\Client\Project 3\project_3\project_3\obj\Debug\IST at RIT.TrustInfo.xml
